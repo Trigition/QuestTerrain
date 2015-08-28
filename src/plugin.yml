@@ -1,0 +1,4 @@
+name: QuestTerrain
+version: 0.1
+main: com.SkyIsland.QuestTerrain.QuestTerrainPlugin
+load: startup
